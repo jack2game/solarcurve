@@ -12,6 +12,8 @@ import solar
 output = solar.solar48(clip)
 ```
 
-Result: Before | After
+Result: 
+
+Before | After
 
 <img src="https://github.com/jack2game/solarcurve/raw/main/solar_0.png" width="400"> <img src="https://github.com/jack2game/solarcurve/raw/main/solar_1.png" width="400">
